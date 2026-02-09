@@ -1,0 +1,2 @@
+# ArknightsAuthenticationAssistant
+明日方舟通行证查询工具小助手，使用Uni-app开发，目前已上线微信小程序版本
